@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../playground_repo/Week_01_HTML_Git_CSS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "horiseon_refactor"
+	}
+}
